@@ -16,7 +16,7 @@ X11Forwarding yes
 added to the config file.
 If you use portable version just unzip the package and start MobaXTerm app with two-click on the icon:
  
-![image](https://user-images.githubusercontent.com/45208254/235434350-bf12cfa9-8099-404e-9d29-437a129d986e.png)
+<img src="https://user-images.githubusercontent.com/45208254/235434350-bf12cfa9-8099-404e-9d29-437a129d986e.png" width="80" />
 
 
 You see the application window now look like this:
